@@ -11,5 +11,3 @@ https://AlloyceOloo.github.io/DE/
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
-
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
