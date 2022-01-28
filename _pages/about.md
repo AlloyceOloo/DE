@@ -6,7 +6,7 @@ permalink: /about/
 
 This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
 
-As a junior data engineer, I intent to utilise this as a porftolio for my data projects.
+As a junior data engineer, I intend to utilise this as a porftolio for my data projects.
 
 
 
